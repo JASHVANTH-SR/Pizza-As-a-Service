@@ -1,0 +1,3 @@
+order_id,Name,Address,Phone,Size,Toppings,Cost,Pizza,Quantity,Status
+1680439030,vijay,kpr st,1245,Medium,['Peppers'],11.5,Vegetarian,1,Placed
+1680447484,Harul Ganesh S B,"rangappa st,Ayanavaram",6379534028,Medium,"['Onions', 'Mushrooms', 'Peppers']",12.5,Vegetarian,1,Placed
